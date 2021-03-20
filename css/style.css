@@ -22,7 +22,7 @@ body{
     margin: 1rem;
     font-size: 1.5rem;
     padding: 1rem 0.5rem;
-    transition: all 0.7s ease;
+    transition: all 0.9s ease;
     width: 10rem;
     text-align: center;
     color: white;
@@ -31,7 +31,7 @@ body{
 }
 
 .playing{
-    transform: scale(1.1);
+    transform: scale(1.2);
     border-color: goldenrod;
     box-shadow: 0 0 1rem goldenrod;
 }
